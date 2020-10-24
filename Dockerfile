@@ -5,7 +5,7 @@ LABEL "repository"="https://github.com/roles-ansible/check-ansible-fedora-latest
 LABEL "homepage"="https://github.com/roles-ansible/check-ansible-fedora-latest-action"
 
 LABEL "com.github.actions.name"="check-ansible-fedora-latest"
-LABEL "com.github.actions.description"="Check ansible role or playbook with CentOS latest"
+LABEL "com.github.actions.description"="Check ansible role or playbook with Fedora latest"
 LABEL "com.github.actions.icon"="aperture"
 LABEL "com.github.actions.color"="green"
 
