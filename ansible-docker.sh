@@ -27,6 +27,7 @@ fact_caching_timeout = 7200
 stdout_callback = yaml
 ansible_python_interpreter=/usr/bin/python3
 ansible_connection=local
+inject_facts_as_vars = false
 """ | tee ansible.cfg
 
   # create host list
