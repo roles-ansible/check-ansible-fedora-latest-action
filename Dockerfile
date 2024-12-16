@@ -11,6 +11,7 @@ LABEL "com.github.actions.color"="green"
 
 RUN dnf update --assumeyes && dnf install --assumeyes \
     python3 \
+    python3-libdnf5 \
     python3-pip \
     git
 
